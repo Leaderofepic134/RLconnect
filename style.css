@@ -1,0 +1,13 @@
+.hb {
+  font-family: Arial;
+  border: 2px solid #ab21a7;
+  background:#ab21a7;
+  border-radius: 0px;
+}
+
+.mb {
+  font-family: Arial;
+  border: 2px solid #213cab;
+  background:#213cab;
+  border-radius: 0px;
+}
